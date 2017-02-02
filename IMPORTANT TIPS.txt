@@ -1,0 +1,26 @@
+Avis Counter Strike Bot Creator/Editor
+======================================
+
+IMPORTANT TIPS
+======================================
+
+1.	As said in Readme file,Dont create a bot after the last bot i.e pressing Create_New_Bot button when the currently selected bot is
+	the last bot in the list.
+	
+2.	Use SWAP option only when two items are selected.!! For that Hold Ctrl and select two items..
+3.	The green colour either on (BOTS or TEMPLATES) shows currently active stuff.If BOTS is coloured as Green it means,
+	a bot profile is currently loaded.
+4.	With the editor you can do as much edits as needed and then at last save the file by the old shortcut Ctrl+S.
+5.	When you use New file option, a default file will be loaded with few templates and bot profiles so that you can easily add and
+	edit them to your needs.
+6.	Please follow Point (1) seriously..
+7.	Use Mission Correct tool to replace old entries of name of bots with new edited names..Note that Missioncorrect will only respond
+	if you have made changes to the names of any of the bot.
+8.	Use Developer Notes facility to share developer notes with all others who in future will use your bot profile.
+	IMPORTANT - To view D.notes Bot Editor is required.. So feel free to distribute it with any of your mission packs.
+
+9.	Dont name any bot with names same as that of Template. i.e if you have a Template named as Sniper,dont name
+	a bot as Sniper.
+10.	Hit  Alt+C  if you see Bot Editor freezing down!
+
+11. Please follow the above mentioned guidelines (and specially Point 1) seriously!

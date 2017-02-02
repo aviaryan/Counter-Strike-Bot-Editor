@@ -35,6 +35,6 @@ a developer notes facility to share your experiences and ideas and everything wi
 ==============================================
 IMPORTANT LINKS
 ==============================================
-Site  ---  www.avi-win-tips.blogspot.com
+Site  ---  http://avi-win-tips.blogspot.in/p/avis-bot-creator-for-counter-strike.html
 
 Main ABC Tutorial  --- http://avi-win-tips.blogspot.com/p/avis-bot-creator-for-counter-strike_27.html
